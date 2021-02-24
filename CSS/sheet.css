@@ -1,0 +1,12 @@
+*{
+    background-color: gray;
+}
+
+span{
+    color: blue;
+}
+
+label{
+    border: 1px solid blue;
+    border-radius: 10px;
+}
